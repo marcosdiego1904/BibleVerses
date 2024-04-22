@@ -138,7 +138,7 @@ nav{
         max-width: 500px;
     }
 }
-@media (min-width: 768px){
+@media (min-width: 540px) and (max-width: 1024px){
     .verse{
         font-size: 23px;
     }
