@@ -142,6 +142,9 @@ nav{
     .verse{
         font-size: 23px;
     }
+    .hero-container{
+        height: 70vh;
+    }
 }
 
 @media (min-width: 1024px) and (max-width: 1279px){
